@@ -30,7 +30,7 @@ Perform a descriptive analysis of a video game data set to foster a better under
 
 
 ![image](https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/111f3454-db64-49cc-97da-9e9c832c7d61)
-["Link to the protect"]
+["Link to the project"]
 
 ## 2. Tableau Data Visualization Project
 
