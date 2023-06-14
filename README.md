@@ -1,18 +1,22 @@
 - 👋 Hi, I’m Daniel Nuñez Ortiz
 - 👀 I’m interested in 
-- 🌱 I’m always expanding my knowledge around Data Analysis and visualization
-- 💞️ I’m looking to collaborate on meaningful Data Analysis projects with excellent people, where we will find ourselves a good win/win situation. You get my best on your project and I will increase my portfolio repertoir 
+- 🌱 I’m constantly expanding my knowledge around Data Analysis and visualization
+- 💞️ I’m looking to collaborate on meaningful Data Analysis projects with excellent people, where we will find ourselves a good win/win situation. You get my best on your project, and I will increase my portfolio repertoire 
 - 📫 How to reach me ...
 
-# Hello, I'm XXXX!
+# Hello,👋 I'm Daniel Nuñez Ortiz!
 
 [Include a profile picture of yourself if you'd like.]
 
 I recently graduated as a Data Analyst Specialist, and this is my GitHub page where I showcase my projects and skills. I have worked on several data analysis projects using various tools and technologies. Below you'll find a brief overview of each project:
 
-## 1. Excel Data Analysis Project
+## 1. GameCo; Excel Data Analysis Project
 
-[Provide a short description of the project. Mention the dataset used (if applicable) and the main objectives of the analysis. You can also mention any key insights or findings.]
+Analyze video game sales data to help define marketing strategy. [Video games Historical data set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fimages.careerfoundry.com%2Fpublic%2Fcourses%2Fintro-to-data%2FE1%2Fvgsales.xlsx&wdOrigin=BROWSELINK) provided by [VGChartz](http://vgchartz.com/methodology.php]
+
+### Objective
+
+Perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market.
 
 [Optionally, include a screenshot or link to the project.]
 
