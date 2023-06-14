@@ -17,8 +17,8 @@ Analyze video game sales data to help define marketing strategy. [Video games Hi
 ### Objective
 
 Perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market.
-
-![image](https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/0829034a-143b-49a3-b5f4-570f86e3abc2)
+![image](https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/111f3454-db64-49cc-97da-9e9c832c7d61)
+[GameCo](
 
 
 ## 2. Tableau Data Visualization Project
