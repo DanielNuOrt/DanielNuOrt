@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m constantly expanding my knowledge around Data Analysis and visualization
 - 💞️ I’m looking to collaborate on meaningful Data Analysis projects with excellent people, where we will find ourselves a good win/win situation. You get my best on your project, and I will increase my portfolio repertoire 
-- 📫 How to reach me ...
+- 📫 How to reach me: [danielnuort@gmail.com]
 
 # Hello,👋 I'm Daniel Nuñez Ortiz!
 
