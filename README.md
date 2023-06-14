@@ -12,19 +12,19 @@ I recently graduated as a Data Analyst Specialist, and this is my GitHub page wh
 
 ## 1. GameCo; Excel Data Analysis Project
 
-Analyze video game sales data to help define marketing strategy. [Video games Historical data set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fimages.careerfoundry.com%2Fpublic%2Fcourses%2Fintro-to-data%2FE1%2Fvgsales.xlsx&wdOrigin=BROWSELINK) provided by [VGChartz](http://vgchartz.com/methodology.php]
+Analyze video game sales data to help define marketing strategy. [Video games Historical data set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fimages.careerfoundry.com%2Fpublic%2Fcourses%2Fintro-to-data%2FE1%2Fvgsales.xlsx&wdOrigin=BROWSELINK) provided by [VGChartz](http://vgchartz.com/methodology.php])
 
 ### Objective
 
 Perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market.
 
-[Optionally, include a screenshot or link to the project.]
+![image](https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/0829034a-143b-49a3-b5f4-570f86e3abc2)
+
 
 ## 2. Tableau Data Visualization Project
 
 [Describe the project, including the dataset used and the main visualization goals. Highlight any interesting visualizations or interactive features.]
 
-[Optionally, include a screenshot or link to the project.]
 
 ## 3. SQL Postgres Data Analysis Project
 
