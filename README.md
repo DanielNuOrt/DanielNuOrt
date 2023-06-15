@@ -39,7 +39,7 @@ Analyze The Influenza historical data identifying vulnerabilities, and help to d
 ### Objective
 **To help a medical staffing agency that provides temporary workers to clinics and hospitals as needed. The analysis will help plan for the influenza season when additional staff are in high demand. The final results will examine trends in influenza and how they can be used to plan for staffing needs across the country.**
 
-<img align="right" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/772ac8a6-c5a2-40a8-bc1d-cfc4821b9c1d" width="250" height="175" />
+<img align="right" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/772ac8a6-c5a2-40a8-bc1d-cfc4821b9c1d" width="290" height="205" />
 
  ### Skills
 
@@ -64,7 +64,7 @@ Statistical Business Analysis (BI) department
 
 **Help Rockbuster Stealth’s business intelligence (BI) department (fictional movie rental company), to help with the launch strategy for the new online video service.**
 
-<img align="right" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/91448219-5696-42c6-bdd4-2bfd33db3fb6" width="250" height="175" />
+<img align="right" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/91448219-5696-42c6-bdd4-2bfd33db3fb6" width="290" height="200" />
 
  ### Skills
 
@@ -79,54 +79,51 @@ Statistical Business Analysis (BI) department
 ## 4. Python Data Analysis Project (Jupyter Notebook)
 
 
-<img align="left" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/d89f125c-1097-4c85-b479-3480a2874b58" width="200" height="140" />
+<img align="left" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/bb661c56-f836-488b-9bf9-2185b1ff27c3" width="200" height="140" />
 
-Analyze The Influenza historical data identifying vulnerabilities, and help to draft a contingency plan to minimize its impact across the states.
+Perform data and exploratory analysis of some of their data to derive insight.
 
 ### Objective
-**To help a medical staffing agency that provides temporary workers to clinics and hospitals as needed. The analysis will help plan for the influenza season when additional staff are in high demand. The final results will examine trends in influenza and how they can be used to plan for staffing needs across the country.**
+**uncover more information about their sales patterns and suggest strategies for better segmentation based on the provided criteria.**
 
-<img align="right" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/772ac8a6-c5a2-40a8-bc1d-cfc4821b9c1d" width="250" height="175" />
+<img align="right" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/ec8bbb5e-dadb-4b40-bcd5-b13d5100c638" width="350" height="275" />
 
  ### Skills
 
-- **Translating business requirements** 
-- **Data cleaning**
-- **Data integration**
-- **Data transformation**
-- **Statistical hypothesis testing**
-- **Visual analysis Forecasting Storytelling in Tableau** 
-- **Presenting results to an audience**
+- **Python**
+- **Data wrangling**
+- **Data merging**
+- **Deriving variables**
+- **Grouping data**
+- **Aggregating data**
+- **Reporting in Excel**
+- **Population flows**
 
 ---
 
-
 ## 5. Python Data Analysis Project
 
+<img align="left" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/ca0f7cfd-fd38-4dc5-a561-ed31d3c1ad9c" width="200" height="140" />
 
-<img align="left" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/d89f125c-1097-4c85-b479-3480a2874b58" width="200" height="140" />
-
-Analyze The Influenza historical data identifying vulnerabilities, and help to draft a contingency plan to minimize its impact across the states.
+Understanding the factors that contribute to the level of Intentional Homicides in Europe is a crucial endeavor for policymakers, law enforcement agencies, and researchers alike.
 
 ### Objective
-**To help a medical staffing agency that provides temporary workers to clinics and hospitals as needed. The analysis will help plan for the influenza season when additional staff are in high demand. The final results will examine trends in influenza and how they can be used to plan for staffing needs across the country.**
 
-<img align="right" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/772ac8a6-c5a2-40a8-bc1d-cfc4821b9c1d" width="250" height="175" />
+**Potential motive to explore: The correlation between the level of intentional homicides and the amount of illicit drugs seized.**
+
+<img align="right" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/acca4b9b-8a7a-4e5e-9534-166becb05137" width="290" height="200" />
 
  ### Skills
 
-- **Translating business requirements** 
 - **Data cleaning**
 - **Data integration**
 - **Data transformation**
 - **Statistical hypothesis testing**
-- **Visual analysis Forecasting Storytelling in Tableau** 
+- **Time-series analysis**
+- **Visual analysis Forecasting Storytelling in Tableau**
 - **Presenting results to an audience**
 
-#
-
-
-
+---
 
 <!---
 DanielNuOrt/DanielNuOrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
