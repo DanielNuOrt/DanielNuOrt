@@ -84,7 +84,7 @@ Statistical Business Analysis (BI) department
 Perform data and exploratory analysis of some of their data to derive insight.
 
 ### Objective
-**uncover more information about their sales patterns and suggest strategies for better segmentation based on the provided criteria.**
+**Uncover more information about their sales patterns and suggest strategies for better segmentation based on the provided criteria.**
 
 <img align="right" src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/ec8bbb5e-dadb-4b40-bcd5-b13d5100c638" width="350" height="275" />
 
