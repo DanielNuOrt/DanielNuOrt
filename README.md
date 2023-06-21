@@ -59,7 +59,7 @@ Perform a descriptive analysis of a video game data set to foster a better under
 
 #### Tableau link:
 
-[Influenza Forecasting](https://public.tableau.com/app/profile/daniel7968/viz/InfluenzaAnalysis2018Forecast/Story1?publish=yes)
+[**Influenza Forecasting**](https://public.tableau.com/app/profile/daniel7968/viz/InfluenzaAnalysis2018Forecast/Story1?publish=yes)
 
 #### Data: 
 - [Influenza Deaths](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) from the [CDC](https://wonder.cdc.gov/ucd-icd10.html)
@@ -88,7 +88,7 @@ Perform a descriptive analysis of a video game data set to foster a better under
 - **Presenting results**
 
 #### Tableau link:
-[Rockbuster Stealth LLC](https://public.tableau.com/app/profile/daniel7968/viz/RockbusterStealthLLCProject/Story1)
+[**Rockbuster Stealth LLC**](https://public.tableau.com/app/profile/daniel7968/viz/RockbusterStealthLLCProject/Story1)
 
 #### Data: 
 [Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) by PostgreSQL.
@@ -118,13 +118,13 @@ Perform a descriptive analysis of a video game data set to foster a better under
 - **Reporting in Excel**
 - **Population flows**
 
+#### Powerpoint link:
+[**Instacart Basket**](https://github.com/DanielNuOrt/DanielNuOrt/blob/main/Instacard%20Presentation.pdf)
+
 #### Data:
 - [Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
 - [Department Data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip)
 - [Orders and products CSV](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
-
-#### Powerpoint link:
-
 
 ---
 
@@ -151,7 +151,7 @@ Perform a descriptive analysis of a video game data set to foster a better under
 - **Presenting results to an audience**
 
 #### Tableau link:
-[Int. Homicides](https://public.tableau.com/app/profile/daniel7968/viz/6_7workinprogress/Story1?publish=yes)
+[**International Homicides**](https://public.tableau.com/app/profile/daniel7968/viz/6_7workinprogress/Story1?publish=yes)
 
 #### Data:
 - [Drug seizures 2016-2020](https://www.unodc.org/res/wdr2022/MS/Statistical%20Annex/7.1_-_Drug_seizures_2016-2020.xlsx)
