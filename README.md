@@ -123,6 +123,9 @@ Perform a descriptive analysis of a video game data set to foster a better under
 - [Department Data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip)
 - [Orders and products CSV](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
 
+#### Powerpoint link:
+
+
 ---
 
 ## 5. Python Data Analysis Project
