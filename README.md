@@ -3,6 +3,7 @@
 # Hello,👋 I'm Daniel Nuñez Ortiz!
 - 📫 How to reach me: [danielnuort@gmail.com]
 - www.linkedin.com/in/daniel-nuñez-ortiz
+
 <img src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/a954f815-e8b3-4fcb-afb9-f8adb1655b83" width="30" height="30" /> **Under construction** <img src="https://github.com/DanielNuOrt/DanielNuOrt/assets/133763346/a954f815-e8b3-4fcb-afb9-f8adb1655b83" width="30" height="30" />
 
 ***I am a certified Data Analyst, and this is my GitHub page where I showcase my projects and skills. I have worked on several data analysis projects using various tools and technologies. Below you'll find a brief overview of each project***
