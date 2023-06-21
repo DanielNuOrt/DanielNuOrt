@@ -54,6 +54,10 @@ Perform a descriptive analysis of a video game data set to foster a better under
 - **Visual analysis Forecasting Storytelling in Tableau** 
 - **Presenting results to an audience**
 
+#### Tableau link:
+
+[Influenza Forecasting: Tableau link presentation](https://public.tableau.com/app/profile/daniel7968/viz/InfluenzaAnalysis2018Forecast/Story1?publish=yes)
+
 #### Data: 
 - [Influenza Deaths](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) from the [CDC](https://wonder.cdc.gov/ucd-icd10.html)
 - [Population Data](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) from the US Census Bureau
@@ -79,6 +83,9 @@ Perform a descriptive analysis of a video game data set to foster a better under
 - **Descriptive**
 - **analysis Visualizing results**
 - **Presenting results**
+
+#### Tableau link:
+[Rockbuster Stealth LLC](https://public.tableau.com/app/profile/daniel7968/viz/RockbusterStealthLLCProject/Story1)
 
 #### Data: 
 [Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) by PostgreSQL.
@@ -136,6 +143,9 @@ Perform a descriptive analysis of a video game data set to foster a better under
 - **Time-series analysis**
 - **Visual analysis Forecasting Storytelling in Tableau**
 - **Presenting results to an audience**
+
+#### Tableau link:
+[Int. Homicides: Tableau link presentation](https://public.tableau.com/app/profile/daniel7968/viz/6_7workinprogress/Story1?publish=yes)
 
 #### Data:
 - [Drug seizures 2016-2020](https://www.unodc.org/res/wdr2022/MS/Statistical Annex/7.1_-_Drug_seizures_2016-2020.xlsx)
