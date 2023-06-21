@@ -27,6 +27,9 @@ Perform a descriptive analysis of a video game data set to foster a better under
  - **Visualizing results**
  - **Presenting results**
 
+#### Powerpoint link:
+[**GameCo**]()
+
 #### Data:
 
 - [Video games Historical data set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fimages.careerfoundry.com%2Fpublic%2Fcourses%2Fintro-to-data%2FE1%2Fvgsales.xlsx&wdOrigin=BROWSELINK) provided by [VGChartz](http://vgchartz.com/methodology.php])
