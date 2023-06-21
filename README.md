@@ -28,7 +28,7 @@ Perform a descriptive analysis of a video game data set to foster a better under
  - **Presenting results**
 
 #### Powerpoint link:
-[**GameCo**]()
+[**GameCo**](GameCo_FinaL_Daniel.pdf)
 
 #### Data:
 
@@ -59,7 +59,7 @@ Perform a descriptive analysis of a video game data set to foster a better under
 
 #### Tableau link:
 
-[Influenza Forecasting: Tableau link presentation](https://public.tableau.com/app/profile/daniel7968/viz/InfluenzaAnalysis2018Forecast/Story1?publish=yes)
+[Influenza Forecasting](https://public.tableau.com/app/profile/daniel7968/viz/InfluenzaAnalysis2018Forecast/Story1?publish=yes)
 
 #### Data: 
 - [Influenza Deaths](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) from the [CDC](https://wonder.cdc.gov/ucd-icd10.html)
@@ -148,7 +148,7 @@ Perform a descriptive analysis of a video game data set to foster a better under
 - **Presenting results to an audience**
 
 #### Tableau link:
-[Int. Homicides: Tableau link presentation](https://public.tableau.com/app/profile/daniel7968/viz/6_7workinprogress/Story1?publish=yes)
+[Int. Homicides](https://public.tableau.com/app/profile/daniel7968/viz/6_7workinprogress/Story1?publish=yes)
 
 #### Data:
 - [Drug seizures 2016-2020](https://www.unodc.org/res/wdr2022/MS/Statistical Annex/7.1_-_Drug_seizures_2016-2020.xlsx)
