@@ -156,7 +156,7 @@ Perform a descriptive analysis of a video game data set to foster a better under
 
 #### Data:
 - [Drug seizures 2016-2020](https://www.unodc.org/res/wdr2022/MS/Statistical%20Annex/7.1_-_Drug_seizures_2016-2020.xlsx)
-- [Victims of intentional homicide](https://dataunodc.un.org/sites/dataunodc.un.org/files/data_cts_intentional_homicide.xlsxv)
+- [Victims of intentional homicide](https://dataunodc.un.org/sites/dataunodc.un.org/files/data_cts_intentional_homicide.xlsx)
 
 ---
 
