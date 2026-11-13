@@ -21,10 +21,10 @@ A data delivery service currently under development. The project brings together
 *Repository is private while the project is being developed.*
 
 ### Verifacto
-A co-developed SaaS invoicing application for Spanish freelancers and small businesses. The application is being prepared for pre-production and includes invoicing workflows and work related to Spain’s VeriFactu requirements, using Ruby on Rails, PostgreSQL and integrations with the Spanish Tax Agency.
+A co-developed SaaS invoicing application for Spanish freelancers and small businesses, currently being prepared for pre-production. Built with Ruby on Rails 8.1 and PostgreSQL, it includes invoicing workflows and work on Spain’s VeriFactu requirements, including SHA-256 invoice-chain logic and AEAT XML/SOAP integration.
 
 ### Orbit
-A personal macOS application built with SwiftUI that brings together local and cloud AI models. The project explores desktop application development, model integration and streaming communication.
+A native macOS meeting copilot built with SwiftUI, combining local Ollama models with cloud AI integrations. The project explores desktop application development, model integration and streaming communication.
 
 ## Earlier data projects
 
