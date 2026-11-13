@@ -2,38 +2,42 @@
 
 **Data Engineer · Analytics Engineer · Software Developer**
 
-I build data pipelines, analytical workflows and backend applications. My experience spans data engineering with Python, SQL and cloud platforms, alongside backend development with Ruby on Rails and PostgreSQL.
+I work across data engineering and backend software development, building data pipelines, analytical workflows, APIs and database-backed applications. My experience combines Python and SQL with cloud data platforms, alongside Ruby on Rails and PostgreSQL application development.
 
-I'm interested in systems that make data dependable and useful: ingestion, transformation, orchestration, data quality, APIs and the applications built around them.
+I’m interested in practical engineering: reliable data flows, clear interfaces, sound data modelling and systems that solve real operational problems.
 
-### What I work with
+## Technical areas
 
-- **Data:** Python, SQL, PostgreSQL, Apache Airflow, BigQuery, Apache Druid
-- **Cloud & delivery:** Google Cloud Platform, Docker, GitHub Actions
-- **Backend:** Ruby on Rails, FastAPI, REST APIs
-- **Analytics:** Superset, Tableau
+- **Data engineering:** Python, SQL, PostgreSQL, Apache Airflow, BigQuery, Apache Druid, ETL/ELT
+- **Backend development:** Ruby on Rails, FastAPI, REST APIs
+- **Platforms and delivery:** Google Cloud Platform, Docker, Celery, Redis, GitHub Actions
+- **Analytics and reporting:** Apache Superset, Tableau
 
-### Current engineering work
+## Engineering projects
 
-**DataRelay** — A data delivery platform built with Python, FastAPI and PostgreSQL. It brings together source connectors, identity mapping, asynchronous export jobs, validation and packaged data delivery. The repository is currently private while the project is under development.
+### DataRelay
+A data delivery service currently under development. The project brings together tenant-scoped data workflows, PostgreSQL and REST API source connectors, asynchronous extraction and packaging, validation, audit events and export artifacts. Recent work includes tenant API-key authentication, export-destination management and a provider-neutral S3 storage adapter. The S3 adapter and destination configuration are not yet integrated into end-to-end export delivery.
 
-I also have experience building and maintaining Rails applications and working on SaaS product functionality, APIs and database-backed features.
+*Repository is private while the project is being developed.*
 
-### Earlier analytics projects
+### Verifacto
+A co-developed SaaS invoicing application for Spanish freelancers and small businesses. The application is being prepared for pre-production and includes invoicing workflows and work related to Spain’s VeriFactu requirements, using Ruby on Rails, PostgreSQL and integrations with the Spanish Tax Agency.
 
-These projects reflect the start of my transition into data and remain part of my learning and professional journey:
+### Orbit
+A personal macOS application built with SwiftUI that brings together local and cloud AI models. The project explores desktop application development, model integration and streaming communication.
 
-- [Instacart Basket Analysis](https://github.com/DanielNuOrt/Instacart-online-store) — exploratory analysis and customer segmentation using Python and Jupyter.
-- [Rockbuster SQL Analysis](https://github.com/DanielNuOrt/SQL-Rockbuster) — business analysis using PostgreSQL and SQL.
+## Earlier data projects
 
-### A little more
+These projects formed part of my transition into data and remain useful examples of analytical work:
 
-I came to technology after a career in hospitality and operations. That background shaped how I approach engineering: understand the problem, work with the people using the system, and build something practical and maintainable.
+- [Rockbuster SQL Analysis](https://github.com/DanielNuOrt/SQL-Rockbuster) — PostgreSQL-based business analysis for a fictional video-rental company.
+- [Instacart Basket Analysis](https://github.com/DanielNuOrt/Instacart-online-store) — Python and Jupyter analysis of grocery purchasing patterns and customer behaviour.
 
-- Based in Valencia, Spain
+## Background
+
+Before moving into software and data, I worked in hospitality and operations. That experience still shapes how I approach technical work: understand the problem, consider the people using the system and build solutions that are practical to maintain.
+
+Based in Valencia, Spain.
+
 - [LinkedIn](https://www.linkedin.com/in/daniel-nunez-ortiz/)
 - [Email](mailto:danielnuort@gmail.com)
-
----
-
-*Always interested in thoughtful engineering conversations and useful projects.*
