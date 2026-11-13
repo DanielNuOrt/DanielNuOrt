@@ -26,12 +26,49 @@ A co-developed SaaS invoicing application for Spanish freelancers and small busi
 ### Orbit
 A native macOS meeting copilot built with SwiftUI, combining local Ollama models with cloud AI integrations. The project explores desktop application development, model integration and streaming communication.
 
-## Earlier data projects
+## Analytics projects
 
-These projects formed part of my transition into data and remain useful examples of analytical work:
+These case studies and learning projects formed the foundation of my move into data. They cover spreadsheet analysis, SQL, Python, data preparation, statistical analysis and Tableau storytelling. They are earlier study projects rather than commercial client engagements.
 
-- [Rockbuster SQL Analysis](https://github.com/DanielNuOrt/SQL-Rockbuster) — PostgreSQL-based business analysis for a fictional video-rental company.
-- [Instacart Basket Analysis](https://github.com/DanielNuOrt/Instacart-online-store) — Python and Jupyter analysis of grocery purchasing patterns and customer behaviour. [Presentation (PDF)](Instacard%20Presentation.pdf).
+### Influenza trends and forecasting — Tableau
+
+A case study for a medical staffing scenario, analysing historical influenza deaths and population data to explore seasonal patterns and support workforce planning across US states.
+
+- **Work:** business-requirement translation, data cleaning and integration, transformation, statistical hypothesis testing, visual analysis and forecasting.
+- **Tools:** Tableau, Excel and structured public-health datasets.
+- [Tableau story: Influenza Forecasting](https://public.tableau.com/app/profile/daniel7968/viz/InfluenzaAnalysis2018Forecast/Story1?publish=yes)
+
+### International homicide and drug-seizure analysis — Python / Tableau
+
+An exploratory study of European intentional-homicide data and drug seizures. The original research question considered whether there might be a relationship between homicide levels and illicit-drug seizures; the project should be read as exploratory analysis, not as evidence of causation.
+
+- **Work:** data cleaning, integration and transformation, statistical hypothesis testing, time-series analysis and visual storytelling.
+- **Tools:** Python, Tableau and Excel.
+- [Tableau story: International Homicides](https://public.tableau.com/app/profile/daniel7968/viz/6_7workinprogress/Story1?publish=yes)
+
+### Instacart Basket Analysis — Python / Jupyter
+
+Exploratory analysis of grocery ordering patterns and customer behaviour, including order timing, product and department trends, and customer segmentation.
+
+- **Work:** data wrangling, merging, derived variables, grouping, aggregation, visualisation and Excel reporting.
+- **Tools:** Python, Jupyter Notebook and Excel.
+- [Repository](https://github.com/DanielNuOrt/Instacart-online-store) · [Presentation (PDF)](https://github.com/DanielNuOrt/DanielNuOrt/blob/main/Instacard%20Presentation.pdf)
+
+### Rockbuster Stealth — PostgreSQL / Tableau
+
+Business analysis for a fictional movie-rental company considering the launch of an online video service.
+
+- **Work:** SQL queries, joins, grouping, descriptive analysis and communicating business findings.
+- **Tools:** PostgreSQL, Excel and Tableau.
+- [Repository](https://github.com/DanielNuOrt/SQL-Rockbuster) · [Tableau story](https://public.tableau.com/app/profile/daniel7968/viz/RockbusterStealthLLCProject/Story1)
+
+### GameCo — Excel
+
+A descriptive analysis of historical video-game sales, exploring market patterns to inform a fictional company's marketing strategy.
+
+- **Work:** grouping and summarising data, descriptive analysis, visualisation and presentation.
+- **Tools:** Excel.
+- [Repository](https://github.com/DanielNuOrt/GameCo) · [Presentation (PDF)](https://github.com/DanielNuOrt/DanielNuOrt/blob/main/GameCo_FinaL_Daniel.pdf)
 
 ## Background
 
