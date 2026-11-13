@@ -31,7 +31,7 @@ A personal macOS application built with SwiftUI that brings together local and c
 These projects formed part of my transition into data and remain useful examples of analytical work:
 
 - [Rockbuster SQL Analysis](https://github.com/DanielNuOrt/SQL-Rockbuster) — PostgreSQL-based business analysis for a fictional video-rental company.
-- [Instacart Basket Analysis](https://github.com/DanielNuOrt/Instacart-online-store) — Python and Jupyter analysis of grocery purchasing patterns and customer behaviour.
+- [Instacart Basket Analysis](https://github.com/DanielNuOrt/Instacart-online-store) — Python and Jupyter analysis of grocery purchasing patterns and customer behaviour. [Presentation (PDF)](Instacard%20Presentation.pdf).
 
 ## Background
 
