@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="./assets/profile-banner.jpg" alt="Golden retriever developer illustration" width="100%" />
+
 # Daniel Núñez Ortiz
 
 ### Data Engineer · Analytics Engineer · Software Developer
@@ -31,19 +33,31 @@ Valencia, Spain · Open to remote opportunities
 
 ---
 
+<p align="center">
+  <img src="./assets/engineering-toolkit.jpg" alt="Engineering toolkit illustration" width="92%" />
+</p>
+
 ## A bit about my work
 
 I work across the data and software lifecycle: getting data from source systems, shaping it into something useful, and building the services and applications around it.
 
 My background spans data engineering, analytics and Ruby on Rails development. I value clear data models, reliable processes and software that solves a real problem.
 
-| **Data engineering** | **Backend development** | **Analytics** |
-|:--|:--|:--|
-| Python · SQL · Airflow · ETL/ELT · BigQuery · Druid | Ruby on Rails · FastAPI · REST APIs · PostgreSQL | Tableau · Superset · Data preparation · Reporting |
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/data-engineering.jpg" alt="Data engineering illustration" width="100%" /><br /><strong>Data engineering</strong><br />Python · SQL · Airflow · ETL/ELT · BigQuery · Druid</td>
+    <td align="center" width="33%"><img src="./assets/software-development.jpg" alt="Software development illustration" width="100%" /><br /><strong>Backend development</strong><br />Ruby on Rails · FastAPI · REST APIs · PostgreSQL</td>
+    <td align="center" width="33%"><img src="./assets/analytics.jpg" alt="Analytics illustration" width="100%" /><br /><strong>Analytics</strong><br />Tableau · Superset · Data preparation · Reporting</td>
+  </tr>
+</table>
 
 ## Featured engineering projects
 
 ### [DataRelay](https://github.com/DanielNuOrt/datarelay)
+
+<p align="center">
+  <img src="./assets/datarelay-architecture.jpg" alt="DataRelay architecture: sources, connectors, pipeline and export packaging" width="100%" />
+</p>
 
 **Python · FastAPI · PostgreSQL · Celery · Redis · Docker**
 
