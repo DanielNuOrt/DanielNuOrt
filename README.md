@@ -14,6 +14,19 @@ Valencia, Spain · Open to remote opportunities
 
 [LinkedIn](https://www.linkedin.com/in/daniel-nunez-ortiz/) · [GitHub](https://github.com/DanielNuOrt) · [Email](mailto:danielnuort@gmail.com)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis,gcp" alt="Python, FastAPI, PostgreSQL, Docker, Redis and Google Cloud" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,swift,apple,git,github" alt="Ruby, Rails, Swift, Apple, Git and GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache_Druid-29A9E0?style=flat-square&logo=apachedruid&logoColor=white" alt="Apache Druid" />
+  <img src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=flat-square&logo=apachesuperset&logoColor=white" alt="Apache Superset" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
+
 </div>
 
 ---
