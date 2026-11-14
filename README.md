@@ -9,7 +9,7 @@
 
 ### Data Engineer · Analytics Engineer · Software Developer
 
-**Curious by nature. Dependable by design.** 🐕
+**Curious by nature.**
 
 I build data pipelines, backend services and analytical workflows — with a focus on practical systems that solve real problems.
 
